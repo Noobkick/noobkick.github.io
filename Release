@@ -1,0 +1,8 @@
+Origin: Noobkick's Repo
+Label Noobkick's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: ihponeos-arm
+Components: main
+Description: Noobkick's Cydia Repo

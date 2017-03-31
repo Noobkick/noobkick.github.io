@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DockedIconLabelStyle</key>
+	<string>color: black; text-shadow: 0px 0px 0px transparent</string>
+	<key>UndockedIconLabelStyle</key>
+	<string>color: black; text-shadow: 0px 0px 0px transparent</string>
+</dict>
+</plist>
